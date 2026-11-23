@@ -109,11 +109,9 @@ El proyecto incluye el archivo `vercel.json` con la directiva `rewrites` hacia `
 
 ### Opción 2: Despliegue mediante GitHub y Vercel Dashboard
 
-1. Si no lo has hecho, sube el repositorio Git a tu cuenta de GitHub:
+1. Repositorio en GitHub:
    ```bash
-   git remote add origin https://github.com/TU_USUARIO/smartlab-ionic-tw.git
-   git branch -M main
-   git push -u origin main
+   https://github.com/danidaroca/smartlab-ionic-tw.git
    ```
 2. Accede a [vercel.com](https://vercel.com) e inicia sesión con GitHub.
 3. Haz clic en **"Add New..."** -> **"Project"**.
